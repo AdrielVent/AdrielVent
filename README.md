@@ -1,57 +1,46 @@
 # Adriel Ventura
 
-**Mechanical Engineering Student**  
-Hofstra University  
-Focused on learning real-world design and engineering fundamentals through CAD coursework and hands-on technical projects.
+**Mechanical Engineering Student @ Hofstra University (Class of 2026)**  
+Focused on 3D CAD design, modeling fundamentals, and applying engineering principles through project-based learning.
 
 ---
 
-## Skills
+##  Technical Skills
 
-**CAD & Drafting**  
-• Siemens NX (1 semester academic experience — modeling, assemblies, and 2D drawing creation)  
-• Technical drawing per ASME Y14.5 (dimensioning and tolerancing basics)
-
-**Engineering Concepts**  
-• Parametric modeling (basic)  
-• Bill of Materials (BOM) creation  
-• Introductory motion simulation using NX Motion tools  
-• Mechanical design principles (class projects & assignments)
-
-**Other**  
-• Microsoft Excel  
-• Google Workspace  
-• PDF documentation and submission formatting
+- **CAD & Modeling:** Siemens NX (Advanced coursework: ENGG112A)
+- **Engineering Drawing:** ASME Y14.5, GD&T basics, BOM generation, parametric modeling
+- **Tools & Documentation:** Microsoft Excel, Google Workspace, PDF engineering drawing output
+- **Course Tools Used:** NX Expression Tables, Sketching, Assembly Design, Exploded Views
 
 ---
 
-## Projects
-
-### Name Plate Assembly (Siemens NX)
-- Created a multi-part parametric assembly using interpart expressions and constraints  
-- Generated dimensioned 2D drawings from 3D models, including exploded views and part lists  
-- Applied ANSI/ASME drawing standards learned in class
-
-### Lab Manual #10: Parametric Modeling
-- Designed a mechanical part using modeling tools like fillet, chamfer, shell, and draft  
-- Produced 2D drawings from both a “dumb solid” and a self-modeled part for comparison  
-- Applied CAD standards for completeness and clarity
-
-### Whimsical Design Challenge
-- Designed and prototyped a basic phone protector using a pool noodle as the main material  
-- Applied engineering design principles: constraints, iterations, and basic testing  
-- Presented the design as part of a class challenge focused on creativity and low-cost solutions
+##  Relevant Coursework
+- **ENGG 112A** – *Engineering Drawing (NX CAD Focus)*
+- **ENGG 026** – *Dynamics*
+- **ENGG 019** – *Design Ethics & Bioengineering*
 
 ---
 
-## Contact
+##  Key Projects
 
-📧 **Email**: adrielventura5@gmail.com  
-🌐 **GitHub Portfolio**: [github.com/AdrielVent](https://github.com/AdrielVent)
+### Name Plate Assembly (NX CAD)
+- Created a multi-part parametric assembly using Siemens NX, including a base, angle brackets, and nameplate.
+- Built and constrained geometry using interpart expressions across models.
+- Generated dimensioned 2D drawings using ASME Y14.5 standards, including exploded views and BOM.
+- Developed understanding of modeling hierarchy, assemblies, constraints, and expression tables.
+
+### Lab Manual 10: Parametric Modeling
+- Modeled a machined part using fillet, chamfer, shell, and draft tools in NX.
+- Practiced working from “dumb solids” by reverse-engineering a STEP file and applying drawing templates.
+
+### Whimsical Design Challenge (ENGG 019)
+- Collaborated on a creative design challenge to build a low-cost phone protector using a pool noodle.
+- Applied engineering design thinking under material constraints and conducted simple testing iterations.
 
 ---
 
-## Currently Improving:
-- Siemens NX skills through coursework and class projects  
-- Technical drawing and documentation for mechanical designs  
-- Exploring internship and project-based opportunities for Summer/Fall 2025
+## 📫 Contact
+
+**Email:** adrielventura5@gmail.com  
+**LinkedIn:** [linkedin.com/in/adrielventura](https://linkedin.com/in/adrielventura)  
+**Portfolio (in progress):** [github.com/AdrielVent](https://github.com/AdrielVent)
